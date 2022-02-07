@@ -1,0 +1,9 @@
+Either merge all files code into single file.
+Use package for it package <package_name>;
+Compile and Run
+javac <main_file_name>.java
+java <main_file_name>
+
+ex:-
+javac Browser-Module.java
+java Browser-Module
