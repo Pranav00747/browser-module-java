@@ -115,12 +115,12 @@ public class BrowserModule {
            pn.setBackground(new Color(0, 51, 102));
            String strs[]= {"This is sample module of Web Box developed by Mr. Pranav", "Hi, this is Pranav founder/creator of this product, I am good" ,
            "person always try to help others if they need help, if you want", 
-           "to connect with me follow me on :","GitHub : https://github.com/Pranav00747", "LinkedIn : https://www.linkedin.com/in/pranav-k-80750818b",
-           "Contact No : 8275183946"};
+           "to connect with me follow me on :","Instagram : https://www.instagram.com/elcodificadorrr_._", "GitHub : htts://github.com/Pranav00747"};
+             
            int yx=0;
            pn.setLayout(null);
-           JLabel labs[] = new JLabel[7];
-           for(int x=0;x<7;x++)
+           JLabel labs[] = new JLabel[6];
+           for(int x=0;x<6;x++)
            {
                labs[x] = new JLabel(strs[x]);
                labs[x].setFont(new Font("MS Sans Serif", Font.PLAIN, 12));
